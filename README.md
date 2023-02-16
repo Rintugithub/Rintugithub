@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node j.s**
 
-- 💬 Ask me about **Html,Css,Javascript,Bootstrap,Angular**
+- 💬 Ask me about **Html,CSS,Javascript,Bootstrap,Angular**
 
 - 📫 How to reach me **rintuva000@gmail.com**
 
