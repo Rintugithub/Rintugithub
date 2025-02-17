@@ -1,6 +1,6 @@
 <img height="300" alt="Coding" width="1000" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cuinsight.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fbigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg&f=1&nofb=1&ipt=eaf3212f150f2c372a0836d8055df60f0922366f5b6159b7579d42b413bfedaf&ipo=images">
 <h1 align="center">Hi 👋, I'm Rintu V.A</h1>
-<h3 align="center">Angular Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
